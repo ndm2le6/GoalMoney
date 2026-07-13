@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gm_blue">#0B57D0</color>
+    <color name="gm_blue_dark">#073B9F</color>
+    <color name="gm_blue_soft">#EAF1FF</color>
+    <color name="gm_bg">#F4F7FB</color>
+    <color name="gm_card">#FFFFFF</color>
+    <color name="gm_text">#172033</color>
+    <color name="gm_muted">#7B879D</color>
+    <color name="gm_line">#E7ECF4</color>
+    <color name="gm_green">#13A06F</color>
+    <color name="gm_red">#E4485F</color>
+</resources>

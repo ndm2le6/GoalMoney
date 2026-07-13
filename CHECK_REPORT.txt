@@ -1,0 +1,7 @@
+GoalMoney v2.0 Stable - STATIC CHECK
+XML hợp lệ: 19 file
+Java parse hợp lệ: 7 file
+Tính năng trọng yếu: goalDialog(null), txDialog(null, pickDate(, pickTime(, undo(, dataMenu(, EXPORT_JSON, GoalPieView, AssetChartView, setRange(
+AGP 8.7.3 + Gradle 8.9 + Java 17 + compileSdk 35.
+Workflow build clean assembleDebug và kiểm tra APK tồn tại.
+Chưa chạy assembleDebug tại đây vì môi trường không có Android SDK; GitHub Actions là bước biên dịch cuối.

@@ -1,0 +1,23 @@
+CÁCH CẬP NHẬT ĐÚNG
+
+1. Giải nén file ZIP này.
+2. Sao chép toàn bộ nội dung BÊN TRONG thư mục GoalMoney-v1.2-Fixed vào repo cũ.
+3. Chạy:
+   git add -A
+   git commit -m "Fix UI and Android widget v1.2"
+   git push
+
+4. GitHub Actions phải hiện workflow:
+   Build GoalMoney v1.2 APK
+
+5. Chỉ tải artifact:
+   GoalMoney-v1.2-APK
+
+6. Gỡ APK cũ trước khi cài bản mới nếu giao diện vẫn không thay đổi.
+
+7. Mở app ít nhất một lần, sau đó:
+   Nhấn giữ màn hình chính → Widgets/Tiện ích → GoalMoney.
+
+Dấu nhận biết bản đúng:
+- Dòng dưới logo hiển thị: Quản lý tài chính cá nhân · v1.2
+- Giao diện có header xanh gradient và thẻ trắng bo góc.
